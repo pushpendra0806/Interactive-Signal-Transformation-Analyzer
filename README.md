@@ -13,7 +13,7 @@ This project is a Python-based simulation for the Signals and Systems course. It
 - Saves a four-panel graph as `output_graph.png`.
 
 # Technologies
-- Python 3
+- Python 
 - NumPy
 - Matplotlib
 
